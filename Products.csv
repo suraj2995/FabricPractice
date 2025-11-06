@@ -1,0 +1,61 @@
+ProductID,ProductName,Category,UnitPrice,UnitCost
+P100,Product 1,Industrial,126.44,91.97
+P101,Product 2,Office Supplies,366.83,292.44
+P102,Product 3,Industrial,190.21,138.89
+P103,Product 4,Office Supplies,319.83,223.53
+P104,Product 5,Industrial,320.43,170.72
+P105,Product 6,Furniture,272.53,171.34
+P106,Product 7,Furniture,54.24,32.16
+P107,Product 8,Furniture,419.3,245.46
+P108,Product 9,Industrial,167.18,140.53
+P109,Product 10,Office Supplies,101.39,64.65
+P110,Product 11,Office Supplies,29.98,24.35
+P111,Product 12,Industrial,299.54,215.94
+P112,Product 13,Furniture,342.01,266.14
+P113,Product 14,Furniture,18.13,12.25
+P114,Product 15,Office Supplies,260.93,183.15
+P115,Product 16,Furniture,120.98,81.35
+P116,Product 17,Electronics,326.13,185.35
+P117,Product 18,Office Supplies,95.44,71.85
+P118,Product 19,Furniture,348.56,208.53
+P119,Product 20,Office Supplies,199.5,101.45
+P120,Product 21,Electronics,469,340.45
+P121,Product 22,Office Supplies,77.39,43.49
+P122,Product 23,Office Supplies,177.12,146.86
+P123,Product 24,Office Supplies,65.6,54.7
+P124,Product 25,Office Supplies,463.1,379.84
+P125,Product 26,Electronics,439.9,276.94
+P126,Product 27,Industrial,136.39,68.93
+P127,Product 28,Office Supplies,333.39,275.02
+P128,Product 29,Office Supplies,410.44,266.73
+P129,Product 30,Furniture,282.05,236.45
+P130,Product 31,Office Supplies,269.53,225.67
+P131,Product 32,Furniture,128.51,102.62
+P132,Product 33,Industrial,55.62,33.54
+P133,Product 34,Electronics,449.64,285.42
+P134,Product 35,Electronics,451.2,360.02
+P135,Product 36,Industrial,320.22,195.63
+P136,Product 37,Electronics,176.12,98.51
+P137,Product 38,Industrial,181.11,125.85
+P138,Product 39,Industrial,365.72,302.69
+P139,Product 40,Industrial,449.58,334.32
+P140,Product 41,Electronics,444.67,311.06
+P141,Product 42,Furniture,392.14,209.41
+P142,Product 43,Industrial,324.6,232.17
+P143,Product 44,Office Supplies,51.23,43.37
+P144,Product 45,Electronics,89.2,48.97
+P145,Product 46,Industrial,450.29,306.84
+P146,Product 47,Industrial,307.15,247.89
+P147,Product 48,Office Supplies,14.51,11.01
+P148,Product 49,Furniture,59.72,44.43
+P149,Product 50,Furniture,335.12,249.95
+P150,Product 51,Furniture,12.48,7.81
+P151,Product 52,Industrial,88.8,53.52
+P152,Product 53,Industrial,278.88,218.44
+P153,Product 54,Industrial,349.03,273.48
+P154,Product 55,Electronics,329.46,264.71
+P155,Product 56,Office Supplies,119.89,98.27
+P156,Product 57,Industrial,358.97,243.73
+P157,Product 58,Office Supplies,126.25,85.29
+P158,Product 59,Office Supplies,169.45,132.07
+P159,Product 60,Furniture,375.78,273.38
